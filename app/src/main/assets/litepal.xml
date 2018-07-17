@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="BuildingCollection" />
+    <version value="1" />
+
+    <list>
+        <mapping class="com.hdsoft.buildingcollection.entity.BuildingEntity"></mapping>
+    </list>
+
+</litepal>
